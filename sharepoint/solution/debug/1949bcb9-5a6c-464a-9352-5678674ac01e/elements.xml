@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <CustomAction
+        Title="SharePointGoogleAnalyticsIntegration"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ClientSideComponentId="f994abef-536d-4853-838e-c2b1f63edbb7"
+        ClientSideComponentProperties="{&quot;testMessage&quot;:&quot;Test message&quot;}">
+    </CustomAction>
+</Elements>

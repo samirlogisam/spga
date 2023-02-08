@@ -1,0 +1,32 @@
+{
+    "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+    "solution": {
+        "name": "spga-client-side-solution",
+        "id": "98a876dd-70bd-4bc1-a66c-7c1b2560c9d1",
+        "version": "1.0.0.0",
+        "includeClientSideAssets": true,
+        "isDomainIsolated": false,
+        "developer": {
+            "name": "",
+            "websiteUrl": "",
+            "privacyUrl": "",
+            "termsOfUseUrl": "",
+            "mpnId": "Undefined-1.13.1"
+        },
+        "features": [{
+            "title": "Application Extension - Deployment of custom action.",
+            "description": "Deploys a custom action with ClientSideComponentId association",
+            "id": "1949bcb9-5a6c-464a-9352-5678674ac01e",
+            "version": "1.0.0.0",
+            "assets": {
+                "elementManifests": [
+                    "elements.xml",
+                    "ClientSideInstance.xml"
+                ]
+            }
+        }]
+    },
+    "paths": {
+        "zippedPackage": "solution/spga.sppkg"
+    }
+}

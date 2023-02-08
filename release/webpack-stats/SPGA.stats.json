@@ -1,0 +1,554 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.44.2",
+  "hash": "3e93c603be49686fdf20",
+  "time": 357,
+  "builtAt": 1675873324025,
+  "publicPath": "",
+  "outputPath": "C:\\Users\\s.daoudi\\OneDrive - IGC Cloud\\Desktop\\SPGA\\dist",
+  "assetsByChunkName": {
+    "share-point-google-analytics-integration-application-customizer": "share-point-google-analytics-integration-application-customizer_73f488474e5296827960.js"
+  },
+  "assets": [
+    {
+      "name": "f994abef-536d-4853-838e-c2b1f63edbb7.manifest.json",
+      "size": 1166,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": true
+    },
+    {
+      "name": "share-point-google-analytics-integration-application-customizer_73f488474e5296827960.js",
+      "size": 4104,
+      "chunks": [
+        0
+      ],
+      "chunkNames": [
+        "share-point-google-analytics-integration-application-customizer"
+      ],
+      "info": {
+        "immutable": true
+      },
+      "emitted": true
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "share-point-google-analytics-integration-application-customizer": {
+      "chunks": [
+        0
+      ],
+      "assets": [
+        "share-point-google-analytics-integration-application-customizer_73f488474e5296827960.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "share-point-google-analytics-integration-application-customizer": {
+      "chunks": [
+        0
+      ],
+      "assets": [
+        "share-point-google-analytics-integration-application-customizer_73f488474e5296827960.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "chunks": [
+    {
+      "id": 0,
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "size": 3297,
+      "names": [
+        "share-point-google-analytics-integration-application-customizer"
+      ],
+      "files": [
+        "share-point-google-analytics-integration-application-customizer_73f488474e5296827960.js"
+      ],
+      "hash": "c1072b32a615e008da5e",
+      "siblings": [],
+      "parents": [],
+      "children": [],
+      "childrenByOrder": {},
+      "modules": [
+        {
+          "id": "GPet",
+          "identifier": "external \"@microsoft/sp-application-base\"",
+          "name": "external \"@microsoft/sp-application-base\"",
+          "index": 3,
+          "index2": 2,
+          "size": 42,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": "C:\\Users\\s.daoudi\\OneDrive - IGC Cloud\\Desktop\\SPGA\\lib\\extensions\\sharePointGoogleAnalyticsIntegration\\SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+          "issuerId": "LSwN",
+          "issuerName": "./lib/extensions/sharePointGoogleAnalyticsIntegration/SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+          "issuerPath": [
+            {
+              "id": "LSwN",
+              "identifier": "C:\\Users\\s.daoudi\\OneDrive - IGC Cloud\\Desktop\\SPGA\\lib\\extensions\\sharePointGoogleAnalyticsIntegration\\SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+              "name": "./lib/extensions/sharePointGoogleAnalyticsIntegration/SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "assets": [],
+          "reasons": [
+            {
+              "moduleId": "LSwN",
+              "moduleIdentifier": "C:\\Users\\s.daoudi\\OneDrive - IGC Cloud\\Desktop\\SPGA\\lib\\extensions\\sharePointGoogleAnalyticsIntegration\\SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+              "module": "./lib/extensions/sharePointGoogleAnalyticsIntegration/SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+              "moduleName": "./lib/extensions/sharePointGoogleAnalyticsIntegration/SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+              "type": "harmony side effect evaluation",
+              "userRequest": "@microsoft/sp-application-base",
+              "loc": "22:0-75"
+            },
+            {
+              "moduleId": "LSwN",
+              "moduleIdentifier": "C:\\Users\\s.daoudi\\OneDrive - IGC Cloud\\Desktop\\SPGA\\lib\\extensions\\sharePointGoogleAnalyticsIntegration\\SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+              "module": "./lib/extensions/sharePointGoogleAnalyticsIntegration/SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+              "moduleName": "./lib/extensions/sharePointGoogleAnalyticsIntegration/SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+              "type": "harmony import specifier",
+              "userRequest": "@microsoft/sp-application-base",
+              "loc": "50:2-27"
+            }
+          ],
+          "usedExports": [
+            "BaseApplicationCustomizer"
+          ],
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1
+        },
+        {
+          "id": "LSwN",
+          "identifier": "C:\\Users\\s.daoudi\\OneDrive - IGC Cloud\\Desktop\\SPGA\\lib\\extensions\\sharePointGoogleAnalyticsIntegration\\SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+          "name": "./lib/extensions/sharePointGoogleAnalyticsIntegration/SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+          "index": 0,
+          "index2": 3,
+          "size": 3171,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": null,
+          "issuerId": null,
+          "issuerName": null,
+          "issuerPath": null,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "assets": [],
+          "reasons": [
+            {
+              "moduleId": null,
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "type": "single entry",
+              "userRequest": "C:\\Users\\s.daoudi\\OneDrive - IGC Cloud\\Desktop\\SPGA\\lib\\extensions\\sharePointGoogleAnalyticsIntegration\\SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+              "loc": "share-point-google-analytics-integration-application-customizer"
+            }
+          ],
+          "usedExports": true,
+          "providedExports": [
+            "default"
+          ],
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module uses eval()"
+          ],
+          "depth": 0,
+          "source": "var __extends = (this && this.__extends) || (function () {\r\n    var extendStatics = function (d, b) {\r\n        extendStatics = Object.setPrototypeOf ||\r\n            ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||\r\n            function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };\r\n        return extendStatics(d, b);\r\n    };\r\n    return function (d, b) {\r\n        extendStatics(d, b);\r\n        function __() { this.constructor = d; }\r\n        d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());\r\n    };\r\n})();\r\nvar __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {\r\n    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;\r\n    if (typeof Reflect === \"object\" && typeof Reflect.decorate === \"function\") r = Reflect.decorate(decorators, target, key, desc);\r\n    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;\r\n    return c > 3 && r && Object.defineProperty(target, key, r), r;\r\n};\r\nimport { override } from '@microsoft/decorators';\r\nimport { Log } from '@microsoft/sp-core-library';\r\nimport { BaseApplicationCustomizer } from '@microsoft/sp-application-base';\r\nvar LOG_SOURCE = 'SharePointGoogleAnalyticsIntegrationApplicationCustomizer';\r\n/** A Custom Action which can be run during execution of a Client Side Application */\r\nvar SharePointGoogleAnalyticsIntegrationApplicationCustomizer = /** @class */ (function (_super) {\r\n    __extends(SharePointGoogleAnalyticsIntegrationApplicationCustomizer, _super);\r\n    function SharePointGoogleAnalyticsIntegrationApplicationCustomizer() {\r\n        return _super !== null && _super.apply(this, arguments) || this;\r\n    }\r\n    SharePointGoogleAnalyticsIntegrationApplicationCustomizer.prototype.onInit = function () {\r\n        var trackingID = \"UA-92888744-5\"; // this.properties.GATrackingID;\r\n        //let trackingID: string = this.properties.GATrackingID;\r\n        if (!trackingID) {\r\n            Log.info(LOG_SOURCE, \"Tracking ID not provided\");\r\n        }\r\n        else {\r\n            var gtagScript = document.createElement(\"script\");\r\n            gtagScript.type = \"text/javascript\";\r\n            gtagScript.src = \"https://www.googletagmanager.com/gtag/js?id=\" + trackingID;\r\n            gtagScript.async = true;\r\n            document.head.appendChild(gtagScript);\r\n            eval(\"\\n\\t\\t\\twindow.dataLayer = window.dataLayer || [];\\n\\t\\t\\tfunction gtag(){dataLayer.push(arguments);}\\n\\t\\t\\tgtag('js', new Date());    \\n\\t\\t\\tgtag('config',  '\" + trackingID + \"');\\n\\t\\t\");\r\n        }\r\n        return Promise.resolve();\r\n    };\r\n    __decorate([\r\n        override\r\n    ], SharePointGoogleAnalyticsIntegrationApplicationCustomizer.prototype, \"onInit\", null);\r\n    return SharePointGoogleAnalyticsIntegrationApplicationCustomizer;\r\n}(BaseApplicationCustomizer));\r\nexport default SharePointGoogleAnalyticsIntegrationApplicationCustomizer;\r\n//# sourceMappingURL=SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js.map"
+        },
+        {
+          "id": "UWqr",
+          "identifier": "external \"@microsoft/sp-core-library\"",
+          "name": "external \"@microsoft/sp-core-library\"",
+          "index": 2,
+          "index2": 1,
+          "size": 42,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": "C:\\Users\\s.daoudi\\OneDrive - IGC Cloud\\Desktop\\SPGA\\lib\\extensions\\sharePointGoogleAnalyticsIntegration\\SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+          "issuerId": "LSwN",
+          "issuerName": "./lib/extensions/sharePointGoogleAnalyticsIntegration/SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+          "issuerPath": [
+            {
+              "id": "LSwN",
+              "identifier": "C:\\Users\\s.daoudi\\OneDrive - IGC Cloud\\Desktop\\SPGA\\lib\\extensions\\sharePointGoogleAnalyticsIntegration\\SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+              "name": "./lib/extensions/sharePointGoogleAnalyticsIntegration/SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "assets": [],
+          "reasons": [
+            {
+              "moduleId": "LSwN",
+              "moduleIdentifier": "C:\\Users\\s.daoudi\\OneDrive - IGC Cloud\\Desktop\\SPGA\\lib\\extensions\\sharePointGoogleAnalyticsIntegration\\SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+              "module": "./lib/extensions/sharePointGoogleAnalyticsIntegration/SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+              "moduleName": "./lib/extensions/sharePointGoogleAnalyticsIntegration/SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+              "type": "harmony side effect evaluation",
+              "userRequest": "@microsoft/sp-core-library",
+              "loc": "21:0-49"
+            },
+            {
+              "moduleId": "LSwN",
+              "moduleIdentifier": "C:\\Users\\s.daoudi\\OneDrive - IGC Cloud\\Desktop\\SPGA\\lib\\extensions\\sharePointGoogleAnalyticsIntegration\\SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+              "module": "./lib/extensions/sharePointGoogleAnalyticsIntegration/SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+              "moduleName": "./lib/extensions/sharePointGoogleAnalyticsIntegration/SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+              "type": "harmony import specifier",
+              "userRequest": "@microsoft/sp-core-library",
+              "loc": "34:12-15"
+            }
+          ],
+          "usedExports": [
+            "Log"
+          ],
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1
+        },
+        {
+          "id": "wxtz",
+          "identifier": "external \"@microsoft/decorators\"",
+          "name": "external \"@microsoft/decorators\"",
+          "index": 1,
+          "index2": 0,
+          "size": 42,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": "C:\\Users\\s.daoudi\\OneDrive - IGC Cloud\\Desktop\\SPGA\\lib\\extensions\\sharePointGoogleAnalyticsIntegration\\SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+          "issuerId": "LSwN",
+          "issuerName": "./lib/extensions/sharePointGoogleAnalyticsIntegration/SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+          "issuerPath": [
+            {
+              "id": "LSwN",
+              "identifier": "C:\\Users\\s.daoudi\\OneDrive - IGC Cloud\\Desktop\\SPGA\\lib\\extensions\\sharePointGoogleAnalyticsIntegration\\SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+              "name": "./lib/extensions/sharePointGoogleAnalyticsIntegration/SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "assets": [],
+          "reasons": [
+            {
+              "moduleId": "LSwN",
+              "moduleIdentifier": "C:\\Users\\s.daoudi\\OneDrive - IGC Cloud\\Desktop\\SPGA\\lib\\extensions\\sharePointGoogleAnalyticsIntegration\\SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+              "module": "./lib/extensions/sharePointGoogleAnalyticsIntegration/SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+              "moduleName": "./lib/extensions/sharePointGoogleAnalyticsIntegration/SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+              "type": "harmony side effect evaluation",
+              "userRequest": "@microsoft/decorators",
+              "loc": "20:0-49"
+            },
+            {
+              "moduleId": "LSwN",
+              "moduleIdentifier": "C:\\Users\\s.daoudi\\OneDrive - IGC Cloud\\Desktop\\SPGA\\lib\\extensions\\sharePointGoogleAnalyticsIntegration\\SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+              "module": "./lib/extensions/sharePointGoogleAnalyticsIntegration/SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+              "moduleName": "./lib/extensions/sharePointGoogleAnalyticsIntegration/SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+              "type": "harmony import specifier",
+              "userRequest": "@microsoft/decorators",
+              "loc": "47:8-16"
+            }
+          ],
+          "usedExports": [
+            "override"
+          ],
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1
+        }
+      ],
+      "filteredModules": 0,
+      "origins": [
+        {
+          "module": "",
+          "moduleIdentifier": "",
+          "moduleName": "",
+          "loc": "share-point-google-analytics-integration-application-customizer",
+          "request": "C:\\Users\\s.daoudi\\OneDrive - IGC Cloud\\Desktop\\SPGA\\lib\\extensions\\sharePointGoogleAnalyticsIntegration\\SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+          "reasons": []
+        }
+      ]
+    }
+  ],
+  "modules": [
+    {
+      "id": "GPet",
+      "identifier": "external \"@microsoft/sp-application-base\"",
+      "name": "external \"@microsoft/sp-application-base\"",
+      "index": 3,
+      "index2": 2,
+      "size": 42,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "issuer": "C:\\Users\\s.daoudi\\OneDrive - IGC Cloud\\Desktop\\SPGA\\lib\\extensions\\sharePointGoogleAnalyticsIntegration\\SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+      "issuerId": "LSwN",
+      "issuerName": "./lib/extensions/sharePointGoogleAnalyticsIntegration/SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+      "issuerPath": [
+        {
+          "id": "LSwN",
+          "identifier": "C:\\Users\\s.daoudi\\OneDrive - IGC Cloud\\Desktop\\SPGA\\lib\\extensions\\sharePointGoogleAnalyticsIntegration\\SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+          "name": "./lib/extensions/sharePointGoogleAnalyticsIntegration/SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "assets": [],
+      "reasons": [
+        {
+          "moduleId": "LSwN",
+          "moduleIdentifier": "C:\\Users\\s.daoudi\\OneDrive - IGC Cloud\\Desktop\\SPGA\\lib\\extensions\\sharePointGoogleAnalyticsIntegration\\SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+          "module": "./lib/extensions/sharePointGoogleAnalyticsIntegration/SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+          "moduleName": "./lib/extensions/sharePointGoogleAnalyticsIntegration/SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+          "type": "harmony side effect evaluation",
+          "userRequest": "@microsoft/sp-application-base",
+          "loc": "22:0-75"
+        },
+        {
+          "moduleId": "LSwN",
+          "moduleIdentifier": "C:\\Users\\s.daoudi\\OneDrive - IGC Cloud\\Desktop\\SPGA\\lib\\extensions\\sharePointGoogleAnalyticsIntegration\\SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+          "module": "./lib/extensions/sharePointGoogleAnalyticsIntegration/SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+          "moduleName": "./lib/extensions/sharePointGoogleAnalyticsIntegration/SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+          "type": "harmony import specifier",
+          "userRequest": "@microsoft/sp-application-base",
+          "loc": "50:2-27"
+        }
+      ],
+      "usedExports": [
+        "BaseApplicationCustomizer"
+      ],
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 1
+    },
+    {
+      "id": "I6O9",
+      "identifier": "external \"@microsoft/sp-loader\"",
+      "name": "external \"@microsoft/sp-loader\"",
+      "index": null,
+      "index2": null,
+      "size": 42,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [],
+      "issuer": null,
+      "issuerId": null,
+      "issuerName": null,
+      "issuerPath": null,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "assets": [],
+      "reasons": [],
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": null
+    },
+    {
+      "id": "LSwN",
+      "identifier": "C:\\Users\\s.daoudi\\OneDrive - IGC Cloud\\Desktop\\SPGA\\lib\\extensions\\sharePointGoogleAnalyticsIntegration\\SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+      "name": "./lib/extensions/sharePointGoogleAnalyticsIntegration/SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+      "index": 0,
+      "index2": 3,
+      "size": 3171,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "issuer": null,
+      "issuerId": null,
+      "issuerName": null,
+      "issuerPath": null,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "assets": [],
+      "reasons": [
+        {
+          "moduleId": null,
+          "moduleIdentifier": null,
+          "module": null,
+          "moduleName": null,
+          "type": "single entry",
+          "userRequest": "C:\\Users\\s.daoudi\\OneDrive - IGC Cloud\\Desktop\\SPGA\\lib\\extensions\\sharePointGoogleAnalyticsIntegration\\SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+          "loc": "share-point-google-analytics-integration-application-customizer"
+        }
+      ],
+      "usedExports": true,
+      "providedExports": [
+        "default"
+      ],
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module uses eval()"
+      ],
+      "depth": 0,
+      "source": "var __extends = (this && this.__extends) || (function () {\r\n    var extendStatics = function (d, b) {\r\n        extendStatics = Object.setPrototypeOf ||\r\n            ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||\r\n            function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };\r\n        return extendStatics(d, b);\r\n    };\r\n    return function (d, b) {\r\n        extendStatics(d, b);\r\n        function __() { this.constructor = d; }\r\n        d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());\r\n    };\r\n})();\r\nvar __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {\r\n    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;\r\n    if (typeof Reflect === \"object\" && typeof Reflect.decorate === \"function\") r = Reflect.decorate(decorators, target, key, desc);\r\n    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;\r\n    return c > 3 && r && Object.defineProperty(target, key, r), r;\r\n};\r\nimport { override } from '@microsoft/decorators';\r\nimport { Log } from '@microsoft/sp-core-library';\r\nimport { BaseApplicationCustomizer } from '@microsoft/sp-application-base';\r\nvar LOG_SOURCE = 'SharePointGoogleAnalyticsIntegrationApplicationCustomizer';\r\n/** A Custom Action which can be run during execution of a Client Side Application */\r\nvar SharePointGoogleAnalyticsIntegrationApplicationCustomizer = /** @class */ (function (_super) {\r\n    __extends(SharePointGoogleAnalyticsIntegrationApplicationCustomizer, _super);\r\n    function SharePointGoogleAnalyticsIntegrationApplicationCustomizer() {\r\n        return _super !== null && _super.apply(this, arguments) || this;\r\n    }\r\n    SharePointGoogleAnalyticsIntegrationApplicationCustomizer.prototype.onInit = function () {\r\n        var trackingID = \"UA-92888744-5\"; // this.properties.GATrackingID;\r\n        //let trackingID: string = this.properties.GATrackingID;\r\n        if (!trackingID) {\r\n            Log.info(LOG_SOURCE, \"Tracking ID not provided\");\r\n        }\r\n        else {\r\n            var gtagScript = document.createElement(\"script\");\r\n            gtagScript.type = \"text/javascript\";\r\n            gtagScript.src = \"https://www.googletagmanager.com/gtag/js?id=\" + trackingID;\r\n            gtagScript.async = true;\r\n            document.head.appendChild(gtagScript);\r\n            eval(\"\\n\\t\\t\\twindow.dataLayer = window.dataLayer || [];\\n\\t\\t\\tfunction gtag(){dataLayer.push(arguments);}\\n\\t\\t\\tgtag('js', new Date());    \\n\\t\\t\\tgtag('config',  '\" + trackingID + \"');\\n\\t\\t\");\r\n        }\r\n        return Promise.resolve();\r\n    };\r\n    __decorate([\r\n        override\r\n    ], SharePointGoogleAnalyticsIntegrationApplicationCustomizer.prototype, \"onInit\", null);\r\n    return SharePointGoogleAnalyticsIntegrationApplicationCustomizer;\r\n}(BaseApplicationCustomizer));\r\nexport default SharePointGoogleAnalyticsIntegrationApplicationCustomizer;\r\n//# sourceMappingURL=SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js.map"
+    },
+    {
+      "id": "UWqr",
+      "identifier": "external \"@microsoft/sp-core-library\"",
+      "name": "external \"@microsoft/sp-core-library\"",
+      "index": 2,
+      "index2": 1,
+      "size": 42,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "issuer": "C:\\Users\\s.daoudi\\OneDrive - IGC Cloud\\Desktop\\SPGA\\lib\\extensions\\sharePointGoogleAnalyticsIntegration\\SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+      "issuerId": "LSwN",
+      "issuerName": "./lib/extensions/sharePointGoogleAnalyticsIntegration/SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+      "issuerPath": [
+        {
+          "id": "LSwN",
+          "identifier": "C:\\Users\\s.daoudi\\OneDrive - IGC Cloud\\Desktop\\SPGA\\lib\\extensions\\sharePointGoogleAnalyticsIntegration\\SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+          "name": "./lib/extensions/sharePointGoogleAnalyticsIntegration/SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "assets": [],
+      "reasons": [
+        {
+          "moduleId": "LSwN",
+          "moduleIdentifier": "C:\\Users\\s.daoudi\\OneDrive - IGC Cloud\\Desktop\\SPGA\\lib\\extensions\\sharePointGoogleAnalyticsIntegration\\SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+          "module": "./lib/extensions/sharePointGoogleAnalyticsIntegration/SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+          "moduleName": "./lib/extensions/sharePointGoogleAnalyticsIntegration/SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+          "type": "harmony side effect evaluation",
+          "userRequest": "@microsoft/sp-core-library",
+          "loc": "21:0-49"
+        },
+        {
+          "moduleId": "LSwN",
+          "moduleIdentifier": "C:\\Users\\s.daoudi\\OneDrive - IGC Cloud\\Desktop\\SPGA\\lib\\extensions\\sharePointGoogleAnalyticsIntegration\\SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+          "module": "./lib/extensions/sharePointGoogleAnalyticsIntegration/SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+          "moduleName": "./lib/extensions/sharePointGoogleAnalyticsIntegration/SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+          "type": "harmony import specifier",
+          "userRequest": "@microsoft/sp-core-library",
+          "loc": "34:12-15"
+        }
+      ],
+      "usedExports": [
+        "Log"
+      ],
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 1
+    },
+    {
+      "id": "wxtz",
+      "identifier": "external \"@microsoft/decorators\"",
+      "name": "external \"@microsoft/decorators\"",
+      "index": 1,
+      "index2": 0,
+      "size": 42,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "issuer": "C:\\Users\\s.daoudi\\OneDrive - IGC Cloud\\Desktop\\SPGA\\lib\\extensions\\sharePointGoogleAnalyticsIntegration\\SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+      "issuerId": "LSwN",
+      "issuerName": "./lib/extensions/sharePointGoogleAnalyticsIntegration/SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+      "issuerPath": [
+        {
+          "id": "LSwN",
+          "identifier": "C:\\Users\\s.daoudi\\OneDrive - IGC Cloud\\Desktop\\SPGA\\lib\\extensions\\sharePointGoogleAnalyticsIntegration\\SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+          "name": "./lib/extensions/sharePointGoogleAnalyticsIntegration/SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "assets": [],
+      "reasons": [
+        {
+          "moduleId": "LSwN",
+          "moduleIdentifier": "C:\\Users\\s.daoudi\\OneDrive - IGC Cloud\\Desktop\\SPGA\\lib\\extensions\\sharePointGoogleAnalyticsIntegration\\SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+          "module": "./lib/extensions/sharePointGoogleAnalyticsIntegration/SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+          "moduleName": "./lib/extensions/sharePointGoogleAnalyticsIntegration/SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+          "type": "harmony side effect evaluation",
+          "userRequest": "@microsoft/decorators",
+          "loc": "20:0-49"
+        },
+        {
+          "moduleId": "LSwN",
+          "moduleIdentifier": "C:\\Users\\s.daoudi\\OneDrive - IGC Cloud\\Desktop\\SPGA\\lib\\extensions\\sharePointGoogleAnalyticsIntegration\\SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+          "module": "./lib/extensions/sharePointGoogleAnalyticsIntegration/SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+          "moduleName": "./lib/extensions/sharePointGoogleAnalyticsIntegration/SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+          "type": "harmony import specifier",
+          "userRequest": "@microsoft/decorators",
+          "loc": "47:8-16"
+        }
+      ],
+      "usedExports": [
+        "override"
+      ],
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 1
+    }
+  ],
+  "filteredModules": 0,
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 2,
+      "debug": false
+    }
+  },
+  "children": []
+}

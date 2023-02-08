@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "share-point-google-analytics-integration-application-customizer": {
+      "components": [
+        {
+          "entrypoint": "./lib/extensions/sharePointGoogleAnalyticsIntegration/SharePointGoogleAnalyticsIntegrationApplicationCustomizer.js",
+          "manifest": "./src/extensions/sharePointGoogleAnalyticsIntegration/SharePointGoogleAnalyticsIntegrationApplicationCustomizer.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "SharePointGoogleAnalyticsIntegrationApplicationCustomizerStrings": "lib/extensions/sharePointGoogleAnalyticsIntegration/loc/{locale}.js"
+  }
+}
